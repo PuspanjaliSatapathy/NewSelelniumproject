@@ -22,6 +22,7 @@ public class commonmethods {
 		Thread.sleep(1000);
 		
 	}
+	//comment2
 
 	public void eneterText(String text, String textbox) throws Exception{
 		
